@@ -1,0 +1,22 @@
+{
+  "name": "global-asyncawaitpromise",
+  "author": "Darius I. Karel <me@dikarel.com>",
+  "description": "One liner to add async/await and promises to your project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "promise",
+    "async",
+    "await",
+    "global",
+    "bluebird",
+    "asyncawait"
+  ],
+  "dependencies": {
+    "asyncawait": "1",
+    "bluebird": "3"
+  },
+  "scripts": {
+    "test": "node example"
+  }
+}
