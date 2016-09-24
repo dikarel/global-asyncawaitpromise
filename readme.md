@@ -1,7 +1,8 @@
 # global-asyncawaitpromise
 
-Use [async/await](https://github.com/yortus/asyncawait) and
-[promises](https://github.com/petkaantonov/bluebird) in your project
+One liner to add async/await and promises to your project
+
+### Quickstart
 
     require('global-asyncawaitpromise')
 
