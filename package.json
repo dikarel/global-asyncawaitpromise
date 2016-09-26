@@ -2,7 +2,7 @@
   "name": "global-asyncawaitpromise",
   "author": "Darius I. Karel <me@dikarel.com>",
   "description": "One liner to add async/await and promises to your project",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "keywords": [
     "promise",
