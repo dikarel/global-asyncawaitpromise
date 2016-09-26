@@ -2,6 +2,9 @@
 
 One liner to add async/await and promises to your project
 
+Check out [asyncawaitpromise](to http://npmjs.com/package/asyncawaitpromise)
+for a version that does not use globals
+
 ### Quickstart
 
     require('global-asyncawaitpromise')
